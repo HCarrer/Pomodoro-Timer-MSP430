@@ -1,0 +1,5 @@
+"./lcd_display.obj"
+"./projeto-final.obj"
+"../lnk_msp430f5529.cmd"
+-llibmath.a
+-llibc.a
